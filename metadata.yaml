@@ -1,0 +1,34 @@
+_repo: Speeches-and-Addresses-of-H.-R.-H.-the-Prince-of-Wales--1863-1888_32848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edward VII, King of Great Britain
+    alias: Albert Edward, Prince of Wales
+    birthdate: 1841
+    deathdate: 1910
+    gutenberg_agent_id: '36073'
+    url: http://www.gutenberg.org/2009/agents/36073
+    wikipedia: http://en.wikipedia.org/wiki/Edward_VII_of_the_United_Kingdom
+  editor:
+    agent_name: Macaulay, James
+    birthdate: 1817
+    deathdate: 1902
+    gutenberg_agent_id: '36074'
+    url: http://www.gutenberg.org/2009/agents/36074
+description: ''
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcc 'DA'
+title: 'Speeches and Addresses of H. R. H. the Prince of Wales: 1863-1888'
+url: http://www.gutenberg.org/ebooks/32848
